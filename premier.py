@@ -1,0 +1,6 @@
+print ("BIENVENUE DANS L'ESPACE DE CALCUL DU PERIMETRE DU RECTANGLE \n VEUILLEZ SAISIR LA LONGEUR DU RECTANGLE")
+lo = input()
+print ("VEUILLEZ SAISIR LA LARGEUR DU RECTANGLE")
+la = input()
+print ("le perimetre du rectangle est \n " ((la + lo) * 2)
+print ("cest la fin du programme")
